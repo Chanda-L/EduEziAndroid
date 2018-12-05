@@ -1,0 +1,62 @@
+{
+"project_info": {
+"project_number": "1077918538165",
+"firebase_url": "https://edubirdie-1534842942940.firebaseio.com",
+"project_id": "edubirdie-1534842942940",
+"storage_bucket": "edubirdie-1534842942940.appspot.com"
+},
+"client": [
+{
+"client_info": {
+"mobilesdk_app_id": "1:1077918538165:android:51d012c424b17694",
+"android_client_info": {
+"package_name": "com.example.dennislupambo.edu_ezi_android"
+}
+},
+"oauth_client": [
+{
+"client_id": "1077918538165-1pn0lp1a31qdcfvoi9cgu5tit8crrph2.apps.googleusercontent.com",
+"client_type": 1,
+"android_info": {
+"package_name": "com.example.dennislupambo.edu_ezi_android",
+"certificate_hash": "5cacaa0230d156465d26dfdae4908eb9decdfdf0"
+}
+},
+{
+"client_id": "1077918538165-6168magnad2ui93mo1iud1shg1q12kb9.apps.googleusercontent.com",
+"client_type": 3
+}
+],
+"api_key": [
+{
+"current_key": "AIzaSyBuGfQjna-K6BFZydo_eQPHmWWq3xYK8Wc"
+}
+],
+"services": {
+"analytics_service": {
+"status": 1
+},
+"appinvite_service": {
+"status": 2,
+"other_platform_oauth_client": [
+{
+"client_id": "1077918538165-nsm2c3decrgrbt0q8jkt1hi6fkbhg7nu.apps.googleusercontent.com",
+"client_type": 3
+},
+{
+"client_id": "1077918538165-1nbq6v8qk9ng59uigelbpn3hd0f8th4e.apps.googleusercontent.com",
+"client_type": 2,
+"ios_info": {
+"bundle_id": "com.dennislupambo.EduBirdiePrototype-2"
+}
+}
+]
+},
+"ads_service": {
+"status": 2
+}
+}
+}
+],
+"configuration_version": "1"
+}
